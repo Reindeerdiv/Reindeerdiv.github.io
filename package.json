@@ -14,12 +14,7 @@
   "keywords": [
     "Birthday"
   ],
-  "author": "Ayush Sharma",
-  "license": "WTFPL",
-  "bugs": {
-    "url": "https://github.com/ayusharma/birthday/issues"
-  },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  
   "dependencies": {
     "http-server": "^0.12.1"
   }
